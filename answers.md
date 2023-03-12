@@ -6,6 +6,23 @@
 
 A1. Зачем нужна каждая библиотека в `requirements.txt`?
 
+- Django -
+- psycopg2-binary -
+- djangorestframework -
+- Pillow -
+- django-markupfield -
+- environs[django] -
+- rollbar -
+- django-mptt -
+- django-taggit -
+- django-taggit-helpers -
+- more-itertools -
+- django-import-export -
+- gTTS -
+- sqlalchemy -
+- beautifulsoup4[lxml] -
+- tqdm -
+
 
 ### B. Файл anki_cards/models.py
 
