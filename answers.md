@@ -1,5 +1,7 @@
 ## Вопросы по коду
 
+## Часть 1
+
 ### A. Файл requirements.txt
 
 A1. Зачем нужна каждая библиотека в `requirements.txt`?
@@ -45,6 +47,7 @@ C2. Что делает функция `render_markdown`?
 
 C3. Зачем понадобилась функция `render_in_bulk`? В чём профит?
 
+## Часть 2
 
 ### D. Файл anki_cards/admin.py
 
